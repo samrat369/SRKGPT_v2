@@ -5,3 +5,4 @@ langchain-pinecone
 langchain-huggingface
 langchain_core
 python-dotenv
+urllib
