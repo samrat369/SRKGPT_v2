@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-community = "*"
+langchain-groq = "*"
+langchain-pinecone = "*"
+langchain-huggingface = "*"
+langchain-core = "*"
+python-dotenv = "*"
+streamlit = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

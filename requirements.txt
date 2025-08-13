@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-groq
+langchain-pinecone
+langchain-huggingface
+langchain_core
+python-dotenv
